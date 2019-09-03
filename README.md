@@ -1,1 +1,1 @@
-# GroupSoftwareProcess
+# group-software-process
